@@ -31,4 +31,4 @@ It sure wasn't no cakewalk when the gimbal and chassis would conflict
 each other during practice execution/runs before I finally figured
 it all out. So please enjoy...
 
-I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs. 😁
+I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs... 😁
